@@ -1,6 +1,29 @@
-# React + Vite
+# Appnox Search Screen Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Repository contains only Apponox Search Screens design codes.
+
+## Build Using
+
+This Project is built using React + Vite
+
+## Installation
+
+1) Clone the repo.
+2) ```
+   npm install
+   ```
+3)  ```
+    npm run dev
+    ```
+
+## Output
+
+![alt text]([http://url/to/img.png](https://github.com/prakashaditya13/appnox-assignment/blob/main/output-1.png?raw=true))
+
+![alt text]([http://url/to/img.png](https://github.com/prakashaditya13/appnox-assignment/blob/main/output-2.png?raw=true))
+
+![alt text]([https://github.com/prakashaditya13/appnox-assignment/blob/main/output-3.png?raw=true))
+
 
 Currently, two official plugins are available:
 
