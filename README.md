@@ -25,6 +25,11 @@ This Project is built using React + Vite
 ![alt text](https://github.com/prakashaditya13/appnox-assignment/blob/main/output-3.png?raw=true)
 
 
+## Live Preview
+
+Link:- https://appnox-assignment.vercel.app/
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
